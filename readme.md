@@ -2,6 +2,11 @@
 
 LinkedIn Feed Cleaner is a minimalist and efficient Chrome extension that allows you to control the visibility of suggested and sponsored posts in your LinkedIn feed.
 
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/598ccaad-d69b-4bd3-8466-6d7803ced46d" alt="Screenshot 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/70e8054a-9b2d-44b9-8e8b-8ff121c262df" alt="Screenshot 2" width="45%">
+</div>
+
 ---
 
 ## **Features**
@@ -22,7 +27,7 @@ LinkedIn Feed Cleaner is a minimalist and efficient Chrome extension that allows
      ```bash
      git clone https://github.com/nicocouz/LinkedIn-Feed-Cleaner.git
      ```
-   - Or download the ZIP [here]([url](https://github.com/nicocouz/LinkedIn-Feed-Cleaner/archive/refs/heads/main.zip)) file and extract it.
+  - Or download the ZIP [here](https://github.com/nicocouz/LinkedIn-Feed-Cleaner/archive/refs/heads/main.zip) and extract it.
 
 2. **Enable developer mode in Chrome:**
    - Navigate to `chrome://extensions/` in your browser.
