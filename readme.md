@@ -12,8 +12,8 @@ LinkedIn Feed Cleaner is a Chrome extension designed to improve your LinkedIn ex
 
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 0px;">
-  <img src="https://github.com/user-attachments/assets/598ccaad-d69b-4bd3-8466-6d7803ced46d" alt="Screenshot 1" width="80%">
   <img src="https://github.com/user-attachments/assets/70e8054a-9b2d-44b9-8e8b-8ff121c262df" alt="Screenshot 2" width="80%">
+  <img src="https://github.com/user-attachments/assets/598ccaad-d69b-4bd3-8466-6d7803ced46d" alt="Screenshot 1" width="80%">
 </div>
 
 ---
