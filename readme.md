@@ -1,6 +1,6 @@
 # LinkedIn Feed Cleaner
 
-![LI-Logo](https://github.com/user-attachments/assets/4b0e96c6-427e-4b3c-a175-6a6c424f1187)
+<img src="https://github.com/user-attachments/assets/4b0e96c6-427e-4b3c-a175-6a6c424f1187" alt="LogoFamileo" width="300"/>
 
 ---
 
