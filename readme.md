@@ -1,6 +1,9 @@
 # LinkedIn Feed Cleaner
 
-<img src="https://github.com/user-attachments/assets/6DxSce3wmnSZdD84J82Dx4" alt="LinkedIn Feed Cleaner Icon" width="300"/>
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/598ccaad-d69b-4bd3-8466-6d7803ced46d" alt="Screenshot 1" width="45%">
+  <img src="https://github.com/user-attachments/assets/70e8054a-9b2d-44b9-8e8b-8ff121c262df" alt="Screenshot 2" width="45%">
+</div>
 
 ---
 
