@@ -71,13 +71,3 @@ The state is stored in `localStorage` for a seamless user experience.
 - **Inline CSS**: Styles applied directly in the script for simplicity.
 
 ---
-
-## **File Structure**
-
-```plaintext
-linkedin-feed-cleaner/
-├── manifest.json     # Chrome extension configuration
-├── content.js        # Script injected into LinkedIn pages
-├── README.md         # Project documentation
-├── icons/            # Icons for the extension
-└── LICENSE           # Project license
