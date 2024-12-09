@@ -22,7 +22,7 @@ LinkedIn Feed Cleaner is a minimalist and efficient Chrome extension that allows
      ```bash
      git clone https://github.com/nicocouz/LinkedIn-Feed-Cleaner.git
      ```
-   - Or download the ZIP file and extract it.
+   - Or download the ZIP [here]([url](https://github.com/nicocouz/LinkedIn-Feed-Cleaner/archive/refs/heads/main.zip)) file and extract it.
 
 2. **Enable developer mode in Chrome:**
    - Navigate to `chrome://extensions/` in your browser.
