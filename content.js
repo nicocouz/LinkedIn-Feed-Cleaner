@@ -7,10 +7,11 @@ function toggleSuggestedPosts() {
 
     posts.forEach(post => {
         const isPromotedOrSuggested =
-            post.innerText.includes("Suggested") ||
-            post.innerText.includes("Recommandé") ||
-            post.innerText.includes("Promoted") ||
-            post.innerText.includes("Sponsorisé") ||
+            // Rendre les comparaisons insensibles à la casse en utilisant toLowerCase()
+            post.innerText.toLowerCase().includes("suggested".toLowerCase()) ||
+            post.innerText.toLowerCase().includes("recommandé".toLowerCase()) ||
+            post.innerText.toLowerCase().includes("promoted".toLowerCase()) ||
+            post.innerText.toLowerCase().includes("sponsorisé".toLowerCase()) ||
             post.querySelector('[aria-label="Sponsored"]') ||  // Vérification du label "Sponsored"
             post.querySelector('[aria-label="Promoted"]') ||   // Vérification du label "Promoted"
             post.classList.contains('sponsored') ||            // Vérification de la classe CSS "sponsored"
@@ -26,6 +27,7 @@ function toggleSuggestedPosts() {
         }
     });
 }
+
 
 // Ajouter une capsule flottante
 function addFloatingCapsule() {
