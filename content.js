@@ -10,7 +10,11 @@ function toggleSuggestedPosts() {
             post.innerText.includes("Suggested") ||
             post.innerText.includes("Recommandé") ||
             post.innerText.includes("Promoted") ||
-            post.innerText.includes("Sponsorisé");
+            post.innerText.includes("Sponsorisé") ||
+            post.querySelector('[aria-label="Sponsored"]') ||  // Vérification du label "Sponsored"
+            post.querySelector('[aria-label="Promoted"]') ||   // Vérification du label "Promoted"
+            post.classList.contains('sponsored') ||            // Vérification de la classe CSS "sponsored"
+            post.classList.contains('promoted');
 
         if (isPromotedOrSuggested) {
             // Appliquer la logique selon l'état ON/OFF
